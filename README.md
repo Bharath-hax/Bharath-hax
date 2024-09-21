@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharathi</h1>
-<h3 align="center">A passionate frontend developer from India and ethical hacker</h3>
+<h3 align="center">INFORMATION TECHNOLOGY STUDENT</h3>
 
-- 🌱 I’m currently learning **Javascrits and hacking tools**
+- 🌱 I’m currently learning **frontend devolopment,Javascrits,ethical hacking**
 
 - 📫 How to reach me **bk3165843@gmail.com**
 
